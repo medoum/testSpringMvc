@@ -1,4 +1,4 @@
-package com.katakuri.web.models;
+package com.katakuri.web.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

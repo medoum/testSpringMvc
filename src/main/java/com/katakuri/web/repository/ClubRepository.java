@@ -1,6 +1,6 @@
 package com.katakuri.web.repository;
 
-import com.katakuri.web.models.Club;
+import com.katakuri.web.model.Club;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
